@@ -1,3 +1,4 @@
 rootProject.name='My Application'
 include ':app'
 include ':test-lib'
+include ':lib2'
